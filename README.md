@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of thesilwar/flarum-ext-copy-code-to-clipboard.** Not for installation: use [Packagist](https://packagist.org/packages/thesilwar/flarum-ext-copy-code-to-clipboard) or the [upstream repository](https://github.com/thesilwar/flarum-ext-copy-code-to-clipboard).
 
-**0** versions archived · Latest: [`v2.3.0`](https://github.com/flarchive/thesilwar-flarum-ext-copy-code-to-clipboard/tree/archive/v2.3.0) · License: `Unlicense` · Flarum: `^1.8 || ^2.0.0@beta`
+**1** versions archived · Latest: [`v2.3.0`](https://github.com/flarchive/thesilwar-flarum-ext-copy-code-to-clipboard/tree/archive/v2.3.0) · License: `Unlicense` · Flarum: `^1.8 || ^2.0.0@beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.3.0` | 2026-07-29 | `^1.8 || ^2.0.0@beta` | [Browse](https://github.com/flarchive/thesilwar-flarum-ext-copy-code-to-clipboard/tree/archive/v2.3.0) |
 
 Catalog entry: [packages/thesilwar-flarum-ext-copy-code-to-clipboard.json](https://github.com/flarchive/archive-index/blob/main/packages/thesilwar-flarum-ext-copy-code-to-clipboard.json)
 
